@@ -1,0 +1,8 @@
+-create db schema
+-run database script
+-open application 
+-select input / output and processed folders
+- from file menu : setup db configurations and point to ur database (press save)
+- from SQL management studio insert your current companies info in the form code,name .. ignore the extra column this is for future use if needed
+- drop files to the input folder and start processing ;)
+---- couldn't send you the file as attachment because of GMail security.
